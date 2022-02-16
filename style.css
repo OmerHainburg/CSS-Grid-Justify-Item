@@ -10,6 +10,7 @@ header, footer {
     grid-template-rows: repeat(3, 450px);
     gap: 20px;
     margin-top: 44px;
+    justify-items: center;
   }
   
   h2 {
@@ -29,6 +30,7 @@ header, footer {
   
   .recipe {
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
+    width: 200px;
   }
   
   .time {
